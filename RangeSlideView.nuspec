@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.RangeSlideView.Droid</id>
+        <version>1.0.1</version>
+        <description>Xamarin Binding Library - RangeSlideView</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - RangeSlideView</title>
+        <releaseNotes>RangeSlideView v1.0.1</releaseNotes>
+        <summary>Xamarin Binding Library - RangeSlideView</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xam-accountkit-android</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, RangeSlideView</tags>
+        
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.RangeSlideView.Droid/bin/Release/Naxam.RangeSlideView.Droid.dll" target="lib/MonoAndroid10/Naxam.RangeSlideView.Droid.dll" />
+    </files>
+</package>
